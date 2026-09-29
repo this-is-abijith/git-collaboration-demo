@@ -1,1 +1,1 @@
-# Git Collaboration Project
+# Git & GitHub Collaboration Project
