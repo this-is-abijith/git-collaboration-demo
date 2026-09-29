@@ -1,1 +1,1 @@
-# git-collaboration-demo
+# Collaborative GitHub Project
